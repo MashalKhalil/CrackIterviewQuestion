@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="question">
+        <item>What are broadcast receivers?</item>
+        <item>What is the difference between Serializable and Parcelable?</item>
+        <item>What database is used in Android? How it is different from client-server database management systems?</item>
+        <item>What are the differences between Service and Thread?</item>
+        <item>What is the content provider?</item>
+    </string-array>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="answer">
+        <item>A broadcast receiver is a mechanism used for listening to system-level events like listening for incoming calls, SMS, etc. by the host application. It is implemented as a subclass of BroadcastReceiver class and each message is broadcasted as an intent object.</item>
+        <item>Serializable is a standard Java interface. In this approach, you simply mark a class Serializable by implementing the interface and java will automatically serialize it.
+Reflection is used during the process and many additional objects are created. This leads to plenty of garbage collection and poor performance.
+        Parcelable is an Android-specific interface. In this approach, you implement the serialization yourself.
+Reflection is not used during this process and hence no garbage is created.</item>
+        <item>SQLite is the open-source relational database used in Android. The SQLite engine is serverless, transactional, and also self-contained. Instead of the client-server relationship of most database management systems, the SQLite engine is integrally linked with the application. The library can be called dynamically and it can make use of simple function calls that reduce latency in database access</item>
+        <item>Service is an application component that facilitates an application to run in the background in order to perform long-running operations without user interaction.
+        A Thread is a concurrent unit of execution.Google has brought in handlers and loopers into threads.</item>
+        <item>Content provider is one of the primary building blocks of Android applications, which manages access to a central repository of data. It acts as a standard interface that connects data in one process with code running in another process. So it can be used to share the data between different applications.</item>
+    </string-array>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ques1">
+        <item>What is the life cycle of Android activity?</item>
+        <item>Explain Sensors in Android/</item>
+        <item>What is AndroidManifest.xml file and why do you need this?</item>
+        <item>Mention the difference between class, file and activity in Android?</item>
+        <item>What is a Toast?</item>
+        <item>What is ANR in Android?</item>
+        <item>What are containers?</item>
+        <item>What is the role of Dalvik in Android development?</item>
+    </string-array>
+
+</resources>
